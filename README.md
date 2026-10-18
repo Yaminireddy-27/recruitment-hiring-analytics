@@ -69,3 +69,41 @@ The findings describe patterns in the dataset and do not establish causation.
 
 ## Disclaimer
 This project is for educational and portfolio purposes. Findings are based on the available dataset and may not generalize to other recruitment environments.
+
+## SQL Analysis
+
+This project includes 25 SQL queries covering:
+
+- Total candidates and hiring distribution
+- Overall hiring rate
+- Candidate profiles by age, experience, gender, and education
+- Hiring rates by education level and recruitment strategy
+- Interview, skill, and personality score comparisons
+- Previous company experience analysis
+- Candidate assessment rankings using SQL window functions
+
+## Key Findings
+
+- Total candidates analyzed: 1,500
+- Candidates hired: 465
+- Candidates not hired: 1,035
+- Overall hiring rate: 31.00%
+- Average candidate experience: 7.69 years
+- Average interview score: 50.56
+
+## Business Recommendations
+
+- Compare hiring rates across recruitment strategies to identify approaches worth investigating further.
+- Review interview, skill, and personality scores alongside hiring outcomes.
+- Analyze candidate profiles by education and experience to understand hiring patterns.
+- Use the Power BI dashboard filters to explore recruitment outcomes across different candidate groups.
+
+## Project Files
+
+- `recruitment_analytics.sql` — SQL queries and database setup
+- `Recruitment_Hiring_Analytics_Dashboard.pbix` — interactive Power BI dashboard
+- `Dashboard.png` — dashboard screenshot
+
+## Tools Used
+
+PostgreSQL | SQL | Microsoft Power BI
