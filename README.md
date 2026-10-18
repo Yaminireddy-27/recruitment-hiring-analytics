@@ -5,6 +5,10 @@ This project analyzes candidate profiles, recruitment strategies, assessment sco
 
 The goal is to understand hiring patterns and present recruitment performance through an interactive dashboard.
 
+## Dashboard Preview
+
+![Recruitment & Hiring Analytics Dashboard](Dashboard.png)
+
 ## Dataset
 - Total candidate records: 1,500
 - Original columns: 11
